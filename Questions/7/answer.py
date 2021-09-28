@@ -19,3 +19,4 @@ cv2.waitKey(0)
 
 #Salvar os resultados
 cv2.imwrite('threshold_result.jpg', threshold_image)
+
