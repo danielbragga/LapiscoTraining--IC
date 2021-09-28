@@ -27,3 +27,4 @@ cv2.waitKey(0)
 #Salvar os resultados
 cv2.imwrite('double_sized_image.jpg', double_sized_image)
 cv2.imwrite('half_sized_image.jpg', half_sized_image)
+
