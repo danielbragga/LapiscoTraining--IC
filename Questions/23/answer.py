@@ -72,7 +72,7 @@ def mouse_event(event, x, y, flags, param):
 
 if __name__ == '__main__':
     # Ler uma imagem rgb
-    image = cv2.imread('arara.jpg')
+    image = cv2.imread('dog.jpg')
 
     # Transformar para tons de cinza
     grayscale_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
