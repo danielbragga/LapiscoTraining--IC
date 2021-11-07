@@ -1,0 +1,1 @@
+Abrir uma imagem colorida, transformar para tom de cinza e aplique a transformada de astuto para detectar bordas. Apliquem o método cvFindContours para determinar quantos contornos existem na imagem. Apresentem o resultado final e a imagem de entrada. O retorno deve ser uma mesma quantidade de objetos existentes.
