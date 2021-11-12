@@ -1,0 +1,1 @@
+Abrir uma imagem colorida, transformar para tom de cinza e aplique a limiarização de otsu. Apliquem o método cvDilate de forma iterativa, alterando o resultado de cada iteração, verificando o que o método causa. O resultado deve ser aumentar como regiões brancas, então se o objeto para branco este método aumentará o objeto.
